@@ -1,4 +1,4 @@
-baseURL = "https://reverent-kalam-7abc18.netlify.com/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Navigator | Responsive Multipurpose Bootstrap Hugo Template"
 theme = "navigator-hugo-master"

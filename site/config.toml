@@ -2,6 +2,7 @@ baseURL = "https://rackitallresale.com/"
 languageCode = "en-us"
 title = "RACK IT ALL RESALE"
 theme = "navigator-hugo-master"
+disableHugoGeneratorInject = true
 
 # Build robots.txt file
 enableRobotsTXT = true

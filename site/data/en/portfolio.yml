@@ -1,0 +1,42 @@
+enable  : true
+topTitle: RECENT FINDS
+title   : RACK IT ALL SHOWCASE.
+subtitle: Free Shipping / DM to cop depop @ rackitallresale pics @ snitchdropper
+
+filtermenu :
+  - name      : tops
+    category  : tops
+
+  - name      : bottoms
+    category  : bottoms
+
+  - name      : accessories
+    category  : accessories
+
+  - name      : home
+    category  : home
+
+item   :
+  - title : Harley Top
+    image : images/portfolio/pics/0100.jpg
+    category  : tops
+
+  - title : Mann's Harley
+    image : images/portfolio/pics/0101.jpg
+    category  : bottoms home
+
+  - title : Freedom Center Shirt
+    image : images/portfolio/pics/0208.jpg
+    category  : tops accessories
+
+  - title :  Shoes
+    image : images/portfolio/pics/0139.jpg
+    category  : bottoms
+
+  - title : Bulls Toons
+    image : images/portfolio/pics/0224.jpg
+    category  : home
+
+  - title : Antones Long sleeve
+    image : images/portfolio/pics/0229.jpg
+    category  : accessories

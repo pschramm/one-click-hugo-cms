@@ -1,0 +1,25 @@
+enable : true
+item    :
+  - quote       : >
+     My son loves these vintage overalls! I slept in the last night and won the lottery!
+    clientThumb : images/client-logo/clients-1.jpg
+    clientName  :  Jessica J
+    clientDesignation: Austin, Tx
+
+  - quote       : >
+      Easy to deal with these jokers -- They are QUICK & no bullshit service. I am So happy now y'all
+    clientThumb : images/client-logo/clients-2.jpg
+    clientName  : Bobby Greenvile
+    clientDesignation: Paris ,  France
+
+  - quote       : >
+     chill place.  super cool dudes with lots of vibes
+    clientThumb : images/client-logo/clients-1.jpg
+    clientName  : Patricia S
+    clientDesignation: El Paso, Tx
+
+  - quote       : >
+      XXX Swag Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum nulla, soluta dolorum. Eos earum, magni asperiores, unde corpori labore, enim, voluptatum officiis voluptates alias natus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, quia?
+    clientThumb : images/client-logo/clients-2.jpg
+    clientName  :  Dr Elon Mask
+    clientDesignation: CEO , Hotel Vegas

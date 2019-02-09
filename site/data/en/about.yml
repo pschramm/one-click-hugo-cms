@@ -1,0 +1,12 @@
+enable  : true
+item    :
+  - positionRight : false
+    image : images/portfolio/pics/0022.jpg
+    title :  Creativity is in our blood
+    description : >
+      we find cool shit tonz of tommy 
+  - positionRight : true
+    image : images/portfolio/pics/0035.jpg
+    title :  We think out of the Box
+    description : >
+      using the bins and bags .. rolling stoned

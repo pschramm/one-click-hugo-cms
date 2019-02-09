@@ -56,7 +56,7 @@ DefaultContentLanguage = "en"
     # About 2 Section
     [Languages.en.params.aboutSm]
         enable  = true
-        title   = "We have explored the thrift stores with passion for a long time. Fuck with us"
+        title   = "We have explored the thrift stores with passion for a long time. shop with us"
         description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
 
     # Blog Section On Homepage

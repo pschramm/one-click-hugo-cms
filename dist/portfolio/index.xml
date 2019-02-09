@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ENGLISH Portfolio on RACK IT ALL RESALE</title>
-    <link>/portfolio/</link>
+    <link>https://reverent-kalam-7abc18.netlify.com/portfolio/</link>
     <description>Recent content in ENGLISH Portfolio on RACK IT ALL RESALE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Jul 2018 15:45:06 +0600</lastBuildDate>
     
-	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://reverent-kalam-7abc18.netlify.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>FRANCAIS Portfolio</title>
-      <link>/portfolio/_index.fr/</link>
+      <link>https://reverent-kalam-7abc18.netlify.com/portfolio/_index.fr/</link>
       <pubDate>Sat, 07 Jul 2018 15:45:06 +0600</pubDate>
       
-      <guid>/portfolio/_index.fr/</guid>
+      <guid>https://reverent-kalam-7abc18.netlify.com/portfolio/_index.fr/</guid>
       <description></description>
     </item>
     
